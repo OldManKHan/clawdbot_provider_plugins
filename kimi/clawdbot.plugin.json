@@ -1,0 +1,9 @@
+{
+  "id": "kimi-auth",
+  "providers": ["kimi"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

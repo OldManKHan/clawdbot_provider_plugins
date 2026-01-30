@@ -1,0 +1,11 @@
+{
+  "name": "@clawdbot/deepseek-auth",
+  "version": "1.0.0",
+  "description": "DeepSeek provider plugin for Clawdbot",
+  "type": "module",
+  "clawdbot": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

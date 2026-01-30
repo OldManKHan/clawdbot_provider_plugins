@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:platform.moonshot.cn)",
+      "WebFetch(domain:www.leanware.co)",
+      "WebFetch(domain:felloai.com)",
+      "WebFetch(domain:openrouter.ai)",
+      "Bash(curl:*)"
+    ]
+  }
+}
